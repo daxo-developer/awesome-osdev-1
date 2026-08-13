@@ -90,6 +90,7 @@ Created by the French [DEVSE discord server](https://discord.com/invite/3XjkM6q)
 - [managarm](https://github.com/managarm/managarm)
 - [sortix](https://gitlab.com/sortix/sortix) 
 - [essence](https://gitlab.com/nakst/essence) (dead)
+- [Daxo OS](https://github.com/daxo-developer/daxo_os) - An independent x86_64 multitasking microkernel written in Rust, featuring 4-level paging memory isolation and async task executor.
 
 
 ### Bootloaders
