@@ -83,6 +83,7 @@ Created by the French [DEVSE discord server](https://discord.com/invite/3XjkM6q)
 
 - [xv6](https://github.com/mit-pdos/xv6-public) (dead)
 - [Biscuit: An OS kernel in a high-level language](https://pdos.csail.mit.edu/projects/biscuit.html)
+- [Daxo OS](https://github.com/daxo-developer/daxo_os) - x86_64 multitasking microkernel written in Rust.
 - [linux](https://elixir.bootlin.com/linux/latest/source)
 - [MenuetOS](http://menuetos.net)
 - [ToaruOS](https://toaruos.org/) (dead)
